@@ -9,7 +9,7 @@ namespace Github
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Githb and Jenkins automated deployment");
+            Console.WriteLine("Welcome to Githb and Jenkins automated deployment Part 2");
         }
     }
 }
